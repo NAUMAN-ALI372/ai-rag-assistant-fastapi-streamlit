@@ -1,0 +1,16 @@
+Employee Handbook - Remote Work Policy
+
+Section 1: Eligibility
+All full-time employees who have completed their 90-day probationary period are eligible to apply for remote work arrangements. Part-time employees are evaluated on a case-by-case basis by their direct manager.
+
+Section 2: Equipment
+The company provides a laptop, monitor, and a one-time home office stipend of $500 for employees approved for full-time remote work. Employees are responsible for maintaining a reliable internet connection of at least 25 Mbps.
+
+Section 3: Core Hours
+Remote employees must be available during core hours of 10 AM to 3 PM in their local time zone for meetings and collaboration. Outside of core hours, employees may set their own schedule as long as they meet weekly deliverables.
+
+Section 4: Security Requirements
+All remote employees must use company-issued VPN software when accessing internal systems. Personal devices are not permitted to access customer data under any circumstances. Any suspected security incident must be reported to IT within one hour of discovery.
+
+Section 5: Performance Reviews
+Remote employees are evaluated using the same performance criteria as in-office employees. Managers conduct monthly one-on-one check-ins, which can be done via video call.

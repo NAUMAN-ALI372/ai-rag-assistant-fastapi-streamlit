@@ -1,0 +1,33 @@
+# --- Web framework & server ---
+fastapi
+uvicorn[standard]
+python-multipart   # required by FastAPI for UploadFile / form-data (Phase 15's /ingest/upload)
+
+# --- Frontend ---
+streamlit
+requests   # frontend/app.py talks to the FastAPI backend over HTTP
+
+# --- Data validation & config ---
+pydantic
+pydantic-settings
+
+# --- LLM ---
+openai
+
+# --- Embeddings & Vector DB (added in Phase 4/5) ---
+sentence-transformers
+
+# --- SQL database (Phase 17) ---
+sqlalchemy
+
+# --- Env var loading ---
+python-dotenv
+
+# --- Testing (Phase 20) ---
+pytest
+httpx
+
+# --- Document loading (Phase 6) ---
+pypdf
+python-docx
+chromadb

@@ -1,0 +1,27 @@
+# Secrets - NEVER commit real environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Data - vector DB files and uploaded documents are usually large/regenerable,
+# and may contain private/uploaded content that shouldn't be in a public repo
+data/chroma_db/
+data/chatbot.db
+data/uploads/
+
+# Logs
+app.log
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor cruft
+.DS_Store
+.vscode/
+.idea/
